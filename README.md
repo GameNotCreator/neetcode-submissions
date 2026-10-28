@@ -1,5 +1,9 @@
 # NeetCode Solutions — @GameNotCreator
 
+Java practice submissions for programming exercises, synchronised from NeetCode. This repository records learning progress rather than a standalone application.
+
+The generated integration documentation below lists languages supported by the synchronisation tool. That table is not a list of languages used here or a statement of proficiency.
+
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
